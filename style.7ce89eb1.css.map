@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,6BACE,aAAc,CACd,kBACF,CAEA,gBACE,kBACF,CAEA,KACE,UACF","file":"style.7ce89eb1.css","sourceRoot":"..\\src","sourcesContent":[".form-field:not(:last-child) {\n  display: block;\n  margin-bottom: 10px;\n}\n\n.fieldset-field {\n  margin-bottom: 20px;\n}\n\n#Age {\n  width: 65px;\n}\n"]}
